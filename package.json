@@ -8,15 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aosilvester/liri-bot.git"
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aosilvester/liri-bot/issues"
+
   },
-  "homepage": "https://github.com/aosilvester/liri-bot#readme",
   "dependencies": {
     "bandsintown": "^1.0.1",
     "chalk": "^2.4.1",
